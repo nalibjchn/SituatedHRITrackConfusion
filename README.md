@@ -1,1 +1,1 @@
-# SituatedHRITrackConfusion
+# Modelling Situated HRI for Tracking Interlocutor Confusion
