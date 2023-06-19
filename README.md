@@ -1,4 +1,4 @@
-# Multimodal Modeling of Interlocutor Confusion in Human-Robot Interaction
+# Invoking and Identifying Task-Oriented Interlocutor Confusion in Human-Robot Interaction
  Na Li, Robert Ross
 
 #### Dialogue scripts
