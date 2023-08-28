@@ -1,0 +1,1 @@
+{"text": " Yeah, it's quite funny.", "segments": [{"id": 0, "seek": 0, "start": 0.0, "end": 2.0, "text": " Yeah, it's quite funny.", "tokens": [865, 11, 309, 311, 1596, 4074, 13], "temperature": 0.0, "avg_logprob": -0.923552131652832, "compression_ratio": 0.7419354838709677, "no_speech_prob": 0.3118836283683777}], "language": "en"}
