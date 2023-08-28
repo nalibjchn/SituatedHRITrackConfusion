@@ -1,0 +1,1 @@
+{"text": " Sorry, I don't know.", "segments": [{"id": 0, "seek": 0, "start": 0.0, "end": 2.0, "text": " Sorry, I don't know.", "tokens": [4919, 11, 286, 500, 380, 458, 13], "temperature": 0.0, "avg_logprob": -0.693558645248413, "compression_ratio": 0.7142857142857143, "no_speech_prob": 0.5380076169967651}], "language": "en"}

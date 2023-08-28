@@ -1,0 +1,1 @@
+{"text": " Yes, I know. I'm not drinking.", "segments": [{"id": 0, "seek": 0, "start": 0.0, "end": 3.0, "text": " Yes, I know. I'm not drinking.", "tokens": [1079, 11, 286, 458, 13, 286, 478, 406, 7583, 13], "temperature": 0.0, "avg_logprob": -0.8824007327740009, "compression_ratio": 0.7894736842105263, "no_speech_prob": 0.1598668247461319}], "language": "en"}

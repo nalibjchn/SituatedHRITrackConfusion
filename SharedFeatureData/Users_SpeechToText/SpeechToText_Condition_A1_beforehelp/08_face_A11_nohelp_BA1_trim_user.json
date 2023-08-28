@@ -1,0 +1,1 @@
+{"text": " Your paper 55 is 55.", "segments": [{"id": 0, "seek": 0, "start": 0.0, "end": 2.0, "text": " Your paper 55 is 55.", "tokens": [2260, 3035, 12330, 307, 12330, 13], "temperature": 0.0, "avg_logprob": -0.9231433868408203, "compression_ratio": 0.7692307692307693, "no_speech_prob": 0.3150465488433838}], "language": "en"}

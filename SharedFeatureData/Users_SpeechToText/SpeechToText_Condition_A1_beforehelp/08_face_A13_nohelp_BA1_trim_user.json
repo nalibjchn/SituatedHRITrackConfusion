@@ -1,0 +1,1 @@
+{"text": " Please repeat the rest of the video.", "segments": [{"id": 0, "seek": 0, "start": 0.0, "end": 2.0, "text": " Please repeat the rest of the video.", "tokens": [2555, 7149, 264, 1472, 295, 264, 960, 13], "temperature": 0.0, "avg_logprob": -0.9005353234030984, "compression_ratio": 0.9473684210526315, "no_speech_prob": 0.24499985575675964}], "language": "en"}

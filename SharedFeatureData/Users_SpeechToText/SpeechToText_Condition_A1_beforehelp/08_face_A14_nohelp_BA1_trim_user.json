@@ -1,0 +1,1 @@
+{"text": " Yeah, I decided to repeat the question.", "segments": [{"id": 0, "seek": 0, "start": 0.0, "end": 2.0, "text": " Yeah, I decided to repeat the question.", "tokens": [865, 11, 286, 3047, 281, 7149, 264, 1168, 13], "temperature": 0.0, "avg_logprob": -0.6965726216634115, "compression_ratio": 0.8297872340425532, "no_speech_prob": 0.2809060513973236}], "language": "en"}

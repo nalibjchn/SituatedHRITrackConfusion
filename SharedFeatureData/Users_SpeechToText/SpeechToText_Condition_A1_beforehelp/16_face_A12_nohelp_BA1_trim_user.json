@@ -1,0 +1,1 @@
+{"text": " 3, 3, 3, 3, 4", "segments": [{"id": 0, "seek": 0, "start": 0.0, "end": 4.0, "text": " 3, 3, 3, 3, 4", "tokens": [805, 11, 805, 11, 805, 11, 805, 11, 1017], "temperature": 0.0, "avg_logprob": -0.7433225313822428, "compression_ratio": 0.9285714285714286, "no_speech_prob": 0.6340252757072449}], "language": "en"}
