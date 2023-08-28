@@ -1,0 +1,1 @@
+{"text": " Yes 10, 10, yes I don't know.", "segments": [{"id": 0, "seek": 0, "start": 0.0, "end": 3.2800000000000002, "text": " Yes 10, 10, yes I don't know.", "tokens": [1079, 1266, 11, 1266, 11, 2086, 286, 500, 380, 458, 13], "temperature": 0.0, "avg_logprob": -0.5650021689278739, "compression_ratio": 0.90625, "no_speech_prob": 0.10221315175294876}], "language": "en"}

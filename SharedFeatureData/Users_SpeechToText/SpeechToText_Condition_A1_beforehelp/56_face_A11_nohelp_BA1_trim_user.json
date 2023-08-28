@@ -1,0 +1,1 @@
+{"text": " Can you repeat the question, please?", "segments": [{"id": 0, "seek": 0, "start": 0.0, "end": 2.0, "text": " Can you repeat the question, please?", "tokens": [1664, 291, 7149, 264, 1168, 11, 1767, 30], "temperature": 0.0, "avg_logprob": -0.44009260697798297, "compression_ratio": 0.8181818181818182, "no_speech_prob": 0.11127486824989319}], "language": "en"}

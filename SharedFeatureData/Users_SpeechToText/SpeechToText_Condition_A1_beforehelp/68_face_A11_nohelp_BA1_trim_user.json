@@ -1,0 +1,1 @@
+{"text": " I have no idea the next question.", "segments": [{"id": 0, "seek": 0, "start": 0.0, "end": 2.0, "text": " I have no idea the next question.", "tokens": [286, 362, 572, 1558, 264, 958, 1168, 13], "temperature": 0.0, "avg_logprob": -0.7242028929970481, "compression_ratio": 0.8461538461538461, "no_speech_prob": 0.2762582004070282}], "language": "en"}

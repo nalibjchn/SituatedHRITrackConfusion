@@ -1,0 +1,1 @@
+{"text": " 3, after 3, I think it is 3.", "segments": [{"id": 0, "seek": 0, "start": 0.0, "end": 2.8000000000000003, "text": " 3, after 3, I think it is 3.", "tokens": [805, 11, 934, 805, 11, 286, 519, 309, 307, 805, 13], "temperature": 0.4, "avg_logprob": -0.8402186802455357, "compression_ratio": 0.7777777777777778, "no_speech_prob": 0.3929307162761688}], "language": "en"}

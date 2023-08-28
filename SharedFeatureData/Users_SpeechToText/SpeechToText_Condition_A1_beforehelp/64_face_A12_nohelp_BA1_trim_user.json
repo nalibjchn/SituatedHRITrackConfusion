@@ -1,0 +1,1 @@
+{"text": " I am 1.5.5.", "segments": [{"id": 0, "seek": 0, "start": 0.0, "end": 2.0, "text": " I am 1.5.5.", "tokens": [286, 669, 502, 13, 20, 13, 20, 13], "temperature": 0.0, "avg_logprob": -0.4219754392450506, "compression_ratio": 0.6470588235294118, "no_speech_prob": 0.0810970738530159}], "language": "en"}
