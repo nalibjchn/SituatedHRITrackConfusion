@@ -1,0 +1,1 @@
+{"text": " There are 15 students in the class.", "segments": [{"id": 0, "seek": 0, "start": 0.0, "end": 2.0, "text": " There are 15 students in the class.", "tokens": [821, 366, 2119, 1731, 294, 264, 1508, 13], "temperature": 0.0, "avg_logprob": -0.4120192527770996, "compression_ratio": 0.8536585365853658, "no_speech_prob": 0.0823795273900032}], "language": "en"}

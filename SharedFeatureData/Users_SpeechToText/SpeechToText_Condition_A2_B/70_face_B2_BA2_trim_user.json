@@ -1,0 +1,1 @@
+{"text": " Would you repeat 30 pieces?", "segments": [{"id": 0, "seek": 0, "start": 0.0, "end": 2.0, "text": " Would you repeat 30 pieces?", "tokens": [6068, 291, 7149, 2217, 3755, 30], "temperature": 0.0, "avg_logprob": -0.5278123749627007, "compression_ratio": 0.7714285714285715, "no_speech_prob": 0.22388407588005066}], "language": "en"}

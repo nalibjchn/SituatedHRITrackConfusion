@@ -1,0 +1,1 @@
+{"text": " Yeah, 40 students in the choir.", "segments": [{"id": 0, "seek": 0, "start": 0.0, "end": 2.0, "text": " Yeah, 40 students in the choir.", "tokens": [865, 11, 3356, 1731, 294, 264, 31244, 13], "temperature": 0.0, "avg_logprob": -0.3433947346427224, "compression_ratio": 0.7948717948717948, "no_speech_prob": 0.005695272237062454}], "language": "en"}
