@@ -1,0 +1,1 @@
+{"text": " Can you repeat 30?", "segments": [{"id": 0, "seek": 0, "start": 0.0, "end": 2.0, "text": " Can you repeat 30?", "tokens": [1664, 291, 7149, 2217, 30], "temperature": 0.0, "avg_logprob": -0.7192168831825256, "compression_ratio": 0.6923076923076923, "no_speech_prob": 0.17609986662864685}], "language": "en"}
