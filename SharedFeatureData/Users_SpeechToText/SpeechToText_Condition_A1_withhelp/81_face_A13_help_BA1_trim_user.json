@@ -1,0 +1,1 @@
+{"text": " Yes, 330, 290, 290.", "segments": [{"id": 0, "seek": 0, "start": 0.0, "end": 3.6, "text": " Yes, 330, 290, 290.", "tokens": [1079, 11, 45374, 11, 568, 7771, 11, 568, 7771, 13], "temperature": 0.0, "avg_logprob": -0.5876927375793457, "compression_ratio": 0.8636363636363636, "no_speech_prob": 0.21880699694156647}], "language": "en"}

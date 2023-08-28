@@ -1,0 +1,1 @@
+{"text": " Yes, I mean, yes, 44, 44.", "segments": [{"id": 0, "seek": 0, "start": 0.0, "end": 2.92, "text": " Yes, I mean, yes, 44, 44.", "tokens": [1079, 11, 286, 914, 11, 2086, 11, 16408, 11, 16408, 13], "temperature": 0.0, "avg_logprob": -0.6137870379856655, "compression_ratio": 0.8928571428571429, "no_speech_prob": 0.15927273035049438}], "language": "en"}

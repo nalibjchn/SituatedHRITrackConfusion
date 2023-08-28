@@ -1,0 +1,1 @@
+{"text": " Yes, yes, yes, 55.", "segments": [{"id": 0, "seek": 0, "start": 0.0, "end": 2.0, "text": " Yes, yes, yes, 55.", "tokens": [1079, 11, 2086, 11, 2086, 11, 12330, 13], "temperature": 0.0, "avg_logprob": -0.4708230278708718, "compression_ratio": 1.0, "no_speech_prob": 0.1682456135749817}], "language": "en"}

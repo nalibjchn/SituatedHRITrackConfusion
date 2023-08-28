@@ -1,0 +1,1 @@
+{"text": " Sure, yes. Yes, I can. 3, 3.", "segments": [{"id": 0, "seek": 0, "start": 0.0, "end": 3.0, "text": " Sure, yes. Yes, I can. 3, 3.", "tokens": [4894, 11, 2086, 13, 1079, 11, 286, 393, 13, 805, 11, 805, 13], "temperature": 0.0, "avg_logprob": -0.5972377061843872, "compression_ratio": 0.7777777777777778, "no_speech_prob": 0.2001482993364334}], "language": "en"}
