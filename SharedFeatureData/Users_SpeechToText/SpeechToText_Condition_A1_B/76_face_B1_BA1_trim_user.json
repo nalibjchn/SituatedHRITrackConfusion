@@ -1,0 +1,1 @@
+{"text": " I think it's 15.", "segments": [{"id": 0, "seek": 0, "start": 0.0, "end": 1.0, "text": " I think it's 15.", "tokens": [286, 519, 309, 311, 2119, 13], "temperature": 0.0, "avg_logprob": -0.41469433572557235, "compression_ratio": 0.6666666666666666, "no_speech_prob": 0.09715729206800461}], "language": "en"}

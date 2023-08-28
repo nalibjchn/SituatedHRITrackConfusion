@@ -1,0 +1,1 @@
+{"text": " i am have party", "segments": [{"id": 0, "seek": 0, "start": 0.0, "end": 2.0, "text": " i am have party", "tokens": [741, 669, 362, 3595], "temperature": 0.0, "avg_logprob": -0.9581454821995327, "compression_ratio": 0.6521739130434783, "no_speech_prob": 0.15761278569698334}], "language": "en"}
