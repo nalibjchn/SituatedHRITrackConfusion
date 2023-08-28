@@ -1,0 +1,1 @@
+{"text": " Yes, okay. 320, yes.", "segments": [{"id": 0, "seek": 0, "start": 0.0, "end": 2.32, "text": " Yes, okay. 320, yes.", "tokens": [1079, 11, 1392, 13, 805, 2009, 11, 2086, 13], "temperature": 0.0, "avg_logprob": -0.7510640621185303, "compression_ratio": 0.7142857142857143, "no_speech_prob": 0.13191059231758118}], "language": "en"}

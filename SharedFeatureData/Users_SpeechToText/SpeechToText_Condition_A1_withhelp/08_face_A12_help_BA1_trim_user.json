@@ -1,0 +1,1 @@
+{"text": " Keep 7, 8, 7, 8, 7.", "segments": [{"id": 0, "seek": 0, "start": 0.0, "end": 2.2800000000000002, "text": " Keep 7, 8, 7, 8, 7.", "tokens": [5527, 1614, 11, 1649, 11, 1614, 11, 1649, 11, 1614, 13], "temperature": 0.4, "avg_logprob": -0.946551936013358, "compression_ratio": 0.95, "no_speech_prob": 0.38617947697639465}], "language": "en"}

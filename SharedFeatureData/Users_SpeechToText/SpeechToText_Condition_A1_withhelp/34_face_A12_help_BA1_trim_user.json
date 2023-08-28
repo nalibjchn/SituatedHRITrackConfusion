@@ -1,0 +1,1 @@
+{"text": " 3, no, no, yes 3", "segments": [{"id": 0, "seek": 0, "start": 0.0, "end": 2.5, "text": " 3, no, no, yes 3", "tokens": [805, 11, 572, 11, 572, 11, 2086, 805], "temperature": 0.0, "avg_logprob": -0.6515862724997781, "compression_ratio": 0.8421052631578947, "no_speech_prob": 0.1503954529762268}], "language": "en"}

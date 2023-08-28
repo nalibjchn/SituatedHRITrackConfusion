@@ -1,0 +1,1 @@
+{"text": " You can do it, you can do it.", "segments": [{"id": 0, "seek": 0, "start": 0.0, "end": 2.0, "text": " You can do it, you can do it.", "tokens": [509, 393, 360, 309, 11, 291, 393, 360, 309, 13], "temperature": 0.4, "avg_logprob": -0.8608420445368841, "compression_ratio": 1.0740740740740742, "no_speech_prob": 0.25241318345069885}], "language": "en"}

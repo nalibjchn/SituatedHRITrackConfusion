@@ -1,0 +1,1 @@
+{"text": " Yes, yes, 11, 11, 11 students.", "segments": [{"id": 0, "seek": 0, "start": 0.0, "end": 4.0, "text": " Yes, yes, 11, 11, 11 students.", "tokens": [1079, 11, 2086, 11, 2975, 11, 2975, 11, 2975, 1731, 13], "temperature": 0.0, "avg_logprob": -0.5493695395333427, "compression_ratio": 1.0344827586206897, "no_speech_prob": 0.1917908489704132}], "language": "en"}
