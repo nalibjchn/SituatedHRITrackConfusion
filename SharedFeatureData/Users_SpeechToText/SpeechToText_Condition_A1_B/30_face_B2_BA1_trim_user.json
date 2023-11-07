@@ -1,1 +1,0 @@
-{"text": " Yes, 30, okay.", "segments": [{"id": 0, "seek": 0, "start": 0.0, "end": 2.0, "text": " Yes, 30, okay.", "tokens": [1079, 11, 2217, 11, 1392, 13], "temperature": 0.0, "avg_logprob": -0.7972220844692655, "compression_ratio": 0.6363636363636364, "no_speech_prob": 0.3594972789287567}], "language": "en"}

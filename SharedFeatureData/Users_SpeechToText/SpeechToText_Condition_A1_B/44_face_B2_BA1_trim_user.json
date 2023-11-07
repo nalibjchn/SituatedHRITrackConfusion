@@ -1,1 +1,0 @@
-{"text": " 10, 20, 30, ok?", "segments": [{"id": 0, "seek": 0, "start": 0.0, "end": 3.0, "text": " 10, 20, 30, ok?", "tokens": [1266, 11, 945, 11, 2217, 11, 3133, 30], "temperature": 0.2, "avg_logprob": -0.9341236461292614, "compression_ratio": 0.75, "no_speech_prob": 0.47999435663223267}], "language": "vi"}
