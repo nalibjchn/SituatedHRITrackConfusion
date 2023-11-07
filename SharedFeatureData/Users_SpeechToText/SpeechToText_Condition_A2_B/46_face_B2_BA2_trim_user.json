@@ -1,1 +1,0 @@
-{"text": " I think she has 30 pencils now.", "segments": [{"id": 0, "seek": 0, "start": 0.0, "end": 2.0, "text": " I think she has 30 pencils now.", "tokens": [286, 519, 750, 575, 2217, 30857, 586, 13], "temperature": 0.0, "avg_logprob": -0.35512674938548694, "compression_ratio": 0.7948717948717948, "no_speech_prob": 0.037829797714948654}], "language": "en"}

@@ -1,1 +1,0 @@
-{"text": " One euro, 34 euro.", "segments": [{"id": 0, "seek": 0, "start": 0.0, "end": 2.0, "text": " One euro, 34 euro.", "tokens": [1485, 14206, 11, 12790, 14206, 13], "temperature": 0.0, "avg_logprob": -0.5042086177402072, "compression_ratio": 0.8181818181818182, "no_speech_prob": 0.08214393258094788}], "language": "en"}
