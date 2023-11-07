@@ -1,0 +1,1 @@
+{"text": " Let's try a simple one.", "segments": [{"id": 0, "seek": 0, "start": 0.0, "end": 2.0, "text": " Let's try a simple one.", "tokens": [961, 311, 853, 257, 2199, 472, 13], "temperature": 0.0, "avg_logprob": -0.378735089302063, "compression_ratio": 0.7419354838709677, "no_speech_prob": 0.22853407263755798}], "language": "en"}

@@ -1,0 +1,1 @@
+{"text": " Did you repeat the question on zero?", "segments": [{"id": 0, "seek": 0, "start": 0.0, "end": 2.0, "text": " Did you repeat the question on zero?", "tokens": [2589, 291, 7149, 264, 1168, 322, 4018, 30], "temperature": 0.0, "avg_logprob": -0.5147557258605957, "compression_ratio": 0.8571428571428571, "no_speech_prob": 0.09659188985824585}], "language": "en"}

@@ -1,0 +1,1 @@
+{"text": " Okay, 15. Is it 15? Thank you.", "segments": [{"id": 0, "seek": 0, "start": 0.0, "end": 2.0, "text": " Okay, 15. Is it 15? Thank you.", "tokens": [1033, 11, 2119, 13, 1119, 309, 2119, 30, 1044, 291, 13], "temperature": 0.0, "avg_logprob": -0.41823104449680876, "compression_ratio": 0.8333333333333334, "no_speech_prob": 0.1797168105840683}], "language": "en"}
